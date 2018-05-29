@@ -1,0 +1,30 @@
+.info{ 
+  font-weight:400;
+  font-size:30rpx;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.image{
+  height: 100rpx;
+  width: 600rpx;
+}
+.text{
+  font-size: 40rpx;
+  font-weight: 300;
+}
+.text1{
+  font-size: 35rpx;
+  font-weight: 300;
+}
+.model{
+  height:80rpx;
+  width: 80rpx;
+}
+.head{
+  height: 80rpx;
+  width:80rpx;
+  border: 0 solid #ff0000;
+  border-radius: 100rpx;
+
+}

@@ -1,0 +1,32 @@
+<image src='/images/background.jpg' style='z-index:-999; position:fixed;height:100%;width:100%'></image>
+<view class="info">
+  <image src='/images/ranktop.png' class='image'></image>
+  <text style='height:30rpx;'></text>
+  <text decode='{{true}}' class='text'>&nbsp;&nbsp;名次&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一周专注总时长</text>
+  <text style='height:50rpx;'></text>
+  <view style='  display: flex;flex-direction:row;flex-flow: row wrap; '>
+    <image src='/images/first.png' class='model'></image>
+    <text decode='{{true}}'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+    <image src='/images/lrj.jpg' class='head'></image>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;Roger</text>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00:35:26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  </view>
+  <text style='height:40rpx;'></text>
+  <view style='  display: flex;flex-direction:row;flex-flow: row wrap; '>
+    <image src='/images/second.png' class='model'></image>
+    <text decode='{{true}}'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+    <image src='/images/xyx.jpg' class='head'></image>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;Gabby帅</text>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00:24:52&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  </view>
+  <text style='height:40rpx;'></text>
+  <view style='  display: flex;flex-direction:row;flex-flow: row wrap; '>
+    <image src='' class='model'></image>
+    <text decode='{{true}}'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+    <image src='' class='head'></image>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;</text>
+    <text decode='{{true}}' class='text1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text>
+  </view>
+  <text style='height:40rpx;'></text>
+  <image src='/images/rankbottom.png' style='height:400rpx;width:450rpx;'></image>
+</view>
